@@ -34,3 +34,12 @@ body {
     font-size: 20px;
 }
 
+#post-2 {
+    background-color: #33A;
+    padding: 1em;
+    margin: 00.5em;
+    color: white;
+    box-shadow: 8px 6px 52px -1px rgba(52,197,207,1);
+
+
+}
